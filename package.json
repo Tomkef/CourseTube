@@ -1,0 +1,38 @@
+{
+  "name": "youdemy",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mantine/core": "^3.6.14",
+    "@mantine/hooks": "^3.6.14",
+    "@mantine/modals": "^4.0.4",
+    "@mantine/notifications": "^4.0.7",
+    "@modulz/radix-icons": "^4.0.0",
+    "@radix-ui/react-icons": "^1.1.0",
+    "@types/bcryptjs": "^2.4.2",
+    "axios": "^0.26.0",
+    "bcryptjs": "^2.4.3",
+    "mongodb": "^4.4.0",
+    "mongoose": "^6.2.10",
+    "next": "^12.1.0",
+    "next-auth": "^4.2.1",
+    "react": "^17.0.2",
+    "react-dom": "17.0.2",
+    "react-player": "^2.9.0",
+    "sharp": "^0.30.2",
+    "tabler-icons-react": "^1.37.0",
+    "uuid": "^8.3.2",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.39",
+    "@types/uuid": "^8.3.4",
+    "eslint": "8.9.0",
+    "eslint-config-next": "12.0.10"
+  }
+}
